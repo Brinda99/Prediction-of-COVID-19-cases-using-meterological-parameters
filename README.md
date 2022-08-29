@@ -8,6 +8,6 @@ the data used for model development included the number of confirmed Covid19 pos
 lockdown effect on different states of India is different. Hence in a bid to reduce the bias in our data and to build an accurate model, we decided to focus only on the state of Kerala, which had the highest number active covid19 cases in India when this paper was being written. We considered different districts of Kerala and for each district, we
 collected the weather data from a website of NASA. Then we tried to predict the daily Covid19 positive cases in each of the district based on the past confirmed covid cases of the district along with its weather data.
 
-![image](https://user-images.githubusercontent.com/59830753/187105389-3948b6f3-54d7-4083-9ea7-aa88387cfd82.png)
+<img width="300" src="https://user-images.githubusercontent.com/59830753/187105389-3948b6f3-54d7-4083-9ea7-aa88387cfd82.png">
 
 
