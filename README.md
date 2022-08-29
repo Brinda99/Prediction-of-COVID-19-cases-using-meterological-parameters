@@ -1,4 +1,6 @@
 # Prediction-of-COVID-19-cases-using-meterological-parameters
+
+## Problem Statement
 The need for accurate and advanced prediction of Covid19 cases is increasing by day. The coronavirus pandemic has been declared a health emergency of international concern by the World Health Organization for 2020. India has recorded a record high of more than 40,000 new case on April 30, 2021. Current study talks about possible relationship of Covid19 transmission with meteorological parameters namely humidity, temperature, rain, speed, and pressure. The weather data been collected from NASA archives. The daily number of confirmed Covid cases, deaths and recovered were extracted from a public website (https://data.covid19india.org/). Aggregated daily data was combined for a specific state for approximately nine months from 01-01-2021 and converted into a multivariable time series data frame. We then tried to build a Bi-LSTM architecture that gives the highest accuracy in predicting the number of confirmed Covid cases for n days based on given data.
 
 ## Methodology
