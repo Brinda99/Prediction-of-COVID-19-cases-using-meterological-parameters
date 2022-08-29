@@ -14,5 +14,17 @@ collected the weather data from a website of NASA. Then we tried to predict the 
 
 <img width="600" src="https://user-images.githubusercontent.com/59830753/187105936-be6a8562-3084-4240-a978-a67a1c85f1d5.png">
 
+## Result and Analysis
+
+1. Bidirectional and unidirectional LSTM models were built to predict the number of daily confirmed covid cases upto 55 days into the future. The models were evaluated based on the MAPE score obtained during testing. 
+2. The results showed a better performance for the bidirectional LSTM model compared to unidirectional LSTM model. The results showed that the four layered BiLSTM model outperformed other models with an accuracy of 99.99%. 
+
+## Future Work
+
+Future directions in this research include un-biased collection of more accurate weather data from weather stations. The accuracy of the model can be improved by using more data for training the model and by including new features into the dataset.
+
+
+
+
 
 
