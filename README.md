@@ -16,8 +16,8 @@ collected the weather data from a website of NASA. Then we tried to predict the 
 
 ## Result and Analysis
 
-<img width="400" src="https://user-images.githubusercontent.com/59830753/187106366-fbad55f2-c000-43dc-b268-8e52f0d19e82.png">
-<img width="400" src="https://user-images.githubusercontent.com/59830753/187106427-c089d3ed-bcf2-4f56-a408-d93624657380.png">
+<img width="300" src="https://user-images.githubusercontent.com/59830753/187106366-fbad55f2-c000-43dc-b268-8e52f0d19e82.png">
+<img width="300" src="https://user-images.githubusercontent.com/59830753/187106427-c089d3ed-bcf2-4f56-a408-d93624657380.png">
 
 
 
