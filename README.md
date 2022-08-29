@@ -10,4 +10,9 @@ collected the weather data from a website of NASA. Then we tried to predict the 
 
 <img width="400" src="https://user-images.githubusercontent.com/59830753/187105389-3948b6f3-54d7-4083-9ea7-aa88387cfd82.png">
 
+## Dataset
+
+<img width="400" src="https://user-images.githubusercontent.com/59830753/187105936-be6a8562-3084-4240-a978-a67a1c85f1d5.png">
+
+
 
