@@ -5,10 +5,12 @@ The need for accurate and advanced prediction of Covid19 cases is increasing by 
 
 ## Methodology
 
-The climate data containing daily aggregate for temperature, precipitation, pressure, windspeed and humidity for all the districts of Kerala was collected from a NASA repository. (https://power.larc.nasa.gov/data-accessviewer/).Large volumes of data are required for model construction in neural network applications. In this research,
-the data used for model development included the number of confirmed Covid19 positive cases and weather parameter measurements such as temperature, humidity, wind speed, pressure, rain etc. The Covid19 data collected includes the number of confirmed cases, deaths and recovered for a day.(https://data.covid19india.org/). The
-lockdown effect on different states of India is different. Hence in a bid to reduce the bias in our data and to build an accurate model, we decided to focus only on the state of Kerala, which had the highest number active covid19 cases in India when this paper was being written. We considered different districts of Kerala and for each district, we
-collected the weather data from a website of NASA. Then we tried to predict the daily Covid19 positive cases in each of the district based on the past confirmed covid cases of the district along with its weather data.
+The present study discusses about the possible relationship of the transmission of the Covid-19 with multiple weather parameters.
+◦ Air Quality Index has been considered to study the efficiency of lockdown in reducing the transmission rate.
+◦ Non-parametric tests such as Man-Kendall’s Test, Petit’s Test and Sen’s Slope Estimator have been used.
+◦ The lagged (0-14) correlation coefficient has been computed between the different parameters such as weather, AIR (Air Quality
+Index) and daily Covid-19 cases across different states in India and the same has been fed to an Bi-LSTM ( Long Short Term Memory),
+a deep learning model.
 
 <img width="400" src="https://user-images.githubusercontent.com/59830753/187105389-3948b6f3-54d7-4083-9ea7-aa88387cfd82.png">
 
