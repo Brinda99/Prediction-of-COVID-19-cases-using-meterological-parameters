@@ -9,7 +9,7 @@ The present study discusses about the possible relationship of the transmission 
 ◦ Air Quality Index has been considered to study the efficiency of lockdown in reducing the transmission rate.
 ◦ Non-parametric tests such as Man-Kendall’s Test, Petit’s Test and Sen’s Slope Estimator have been used.
 ◦ The lagged (0-14) correlation coefficient has been computed between the different parameters such as weather, AIR (Air Quality
-Index) and daily Covid-19 cases across different states in India and the same has been fed to an Bi-LSTM ( Long Short Term Memory),
+Index) and daily Covid-19 cases across Kerala (a state in India ) and the same has been fed to an Bi-LSTM ( Long Short Term Memory),
 a deep learning model.
 
 <img width="400" src="https://user-images.githubusercontent.com/59830753/187105389-3948b6f3-54d7-4083-9ea7-aa88387cfd82.png">
